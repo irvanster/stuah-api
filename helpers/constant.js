@@ -1,0 +1,1 @@
+exports.pathPhotoquran = '/public/images/quran'
